@@ -43,4 +43,7 @@ PLATFORMS
 
 DEPENDENCIES
   coveralls
-  rubocop (~> 0.29.1)
+  rubocop
+
+BUNDLED WITH
+   1.16.1
